@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+악기를 좀 더 오래하고 싶은 컴공과 재학생입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+프로젝트는 JAVA로
+코딩테스트는 Python으로
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[201602057@cs-cnu.org](mailto:201602057@cs-cnu.org)
